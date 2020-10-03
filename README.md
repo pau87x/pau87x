@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-I'm a **Software Developer**, working as a **Fullstack Developer**.
+I'm Paulina, **Software Developer**, working as a **Fullstack Developer**.
 
 - 👩🏽‍💻 I’m currently working on **JavaScript(Node.js and Angular), PHP, SQLServer and Docker**.
 - 🌱 I’m currently learning about docker and C#
